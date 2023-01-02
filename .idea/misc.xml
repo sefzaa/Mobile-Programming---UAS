@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Individu/app/src/main/res/drawable-v24/ic_avatar1.xml" value="0.1" />
+        <entry key="..\:/Individu/app/src/main/res/drawable-v24/ic_avatar2.xml" value="0.1" />
+        <entry key="..\:/Individu/app/src/main/res/drawable-v24/ic_avatar3.xml" value="0.1" />
+        <entry key="..\:/Individu/app/src/main/res/drawable-v24/ic_avatar4.xml" value="0.1" />
+        <entry key="..\:/Individu/app/src/main/res/drawable-v24/ic_image_9.xml" value="0.226" />
+        <entry key="..\:/Individu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.226" />
+        <entry key="..\:/Individu/app/src/main/res/drawable-v24/ic_unand_hijau.xml" value="0.1" />
+        <entry key="..\:/Individu/app/src/main/res/drawable/ic_group_3.xml" value="0.226" />
+        <entry key="..\:/Individu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.226" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_card_view_dosen.xml" value="0.16" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_card_view_mahasiswa_seminar.xml" value="0.1" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_card_view_mahasiswa_sidang.xml" value="0.2515625" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_detail_mahasiswa_seminar.xml" value="0.264" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_detail_mahasiswa_sidang.xml" value="0.19293478260869565" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_list_dosen_sidang.xml" value="0.264" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_list_permintaan_seminar.xml" value="0.264" />
+        <entry key="..\:/Individu/app/src/main/res/layout/activity_list_permintaan_sidang.xml" value="0.2515625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
