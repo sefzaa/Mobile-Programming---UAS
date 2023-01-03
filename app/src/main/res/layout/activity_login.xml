@@ -81,13 +81,13 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
-        android:id="@+id/log_in"
+        android:id="@+id/login"
+        android:onClick="login"
         android:layout_width="281dp"
         android:layout_height="61dp"
         android:layout_centerHorizontal="true"
         android:backgroundTint="#12D53C"
         android:fontFamily="sans-serif-black"
-        android:onClick="login"
         android:text="Login"
         android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"

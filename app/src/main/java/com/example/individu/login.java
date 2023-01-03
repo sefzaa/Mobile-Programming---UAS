@@ -26,7 +26,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class login extends AppCompatActivity {
 
     TextInputEditText input_username , input_password;
-    Button log_in;
+    Button login;
     String token;
 
     @Override
@@ -34,8 +34,8 @@ public class login extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        log_in = findViewById(R.id.login);
-        log_in.setOnClickListener(new View.OnClickListener() {
+        login = findViewById(R.id.login);
+        login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 cekLogin();
@@ -46,15 +46,10 @@ public class login extends AppCompatActivity {
     }
 
 
-    public void login(View view) {
-        Intent intent = new Intent(login.this,MainActivity.class);
-        startActivity(intent);
-    }
-
     public void cekLogin() {
         input_username = findViewById(R.id.input_username);
         input_password = findViewById(R.id.input_password);
-        log_in = findViewById(R.id.login);
+        login = findViewById(R.id.login);
 
         String username = input_username.getText().toString();
         String password = input_password.getText().toString();
@@ -104,4 +99,11 @@ public class login extends AppCompatActivity {
             }
             ;
         });
-    }}
+    }
+
+    public void login(View view) {
+        cekLogin();
+    }
+
+
+}

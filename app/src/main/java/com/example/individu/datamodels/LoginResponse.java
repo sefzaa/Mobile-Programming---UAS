@@ -13,11 +13,11 @@ public class LoginResponse{
     @SerializedName("status")
     private String status;
 
-    public com.example.individu.datamodels.Authorisation getAuthorisation(){
+    public Authorisation getAuthorisation(){
         return authorisation;
     }
 
-    public com.example.individu.datamodels.User getUser(){
+    public User getUser(){
         return user;
     }
 
