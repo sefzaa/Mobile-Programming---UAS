@@ -20,11 +20,13 @@
         <entry key="..\:/Individu/app/src/main/res/layout/activity_list_dosen_sidang.xml" value="0.264" />
         <entry key="..\:/Individu/app/src/main/res/layout/activity_list_permintaan_seminar.xml" value="0.264" />
         <entry key="..\:/Individu/app/src/main/res/layout/activity_list_permintaan_sidang.xml" value="0.2515625" />
+        <entry key="..\:/uasPTB/app/src/main/res/drawable/shape.xml" value="0.105" />
         <entry key="..\:/uasPTB/app/src/main/res/layout/activity_detail_mahasiswa_seminar.xml" value="0.264" />
         <entry key="..\:/uasPTB/app/src/main/res/layout/activity_detail_mahasiswa_sidang.xml" value="0.264" />
         <entry key="..\:/uasPTB/app/src/main/res/layout/activity_list_dosen_seminar.xml" value="0.20244565217391305" />
         <entry key="..\:/uasPTB/app/src/main/res/layout/activity_list_permintaan_seminar.xml" value="0.20244565217391305" />
-        <entry key="..\:/uasPTB/app/src/main/res/layout/activity_main.xml" value="0.2515625" />
+        <entry key="..\:/uasPTB/app/src/main/res/layout/activity_list_permintaan_sidang.xml" value="0.20244565217391305" />
+        <entry key="..\:/uasPTB/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
